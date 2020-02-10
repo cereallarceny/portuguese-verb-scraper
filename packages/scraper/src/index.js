@@ -144,7 +144,7 @@ import fs from 'fs';
   };
 
   /* ----- CREATE DIR IF NEEDED ----- */
-  const dataPath = './data';
+  const dataPath = '../client/data';
 
   if (!fs.existsSync(dataPath)) {
     fs.mkdirSync(dataPath);

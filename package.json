@@ -1,23 +1,10 @@
 {
-  "name": "conjugacao-scraper",
-  "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
-  "scripts": {
-    "start": "node dist/index.js",
-    "build": "babel src -w --out-dir dist"
-  },
+  "name": "portuguese-verb-scraper",
+  "description": "A simple Node.js scraper to get verb conjugations I want to study from conjugacao.com.br",
+  "private": false,
   "author": "Patrick Cason <me@patrickcason.com>",
   "license": "MIT",
-  "dependencies": {
-    "fs": "0.0.1-security",
-    "puppeteer": "^2.1.1"
-  },
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.8.4",
-    "@babel/plugin-transform-runtime": "^7.8.3",
-    "@babel/preset-env": "^7.8.4",
-    "@babel/runtime": "^7.8.4"
+    "lerna": "^3.20.2"
   }
 }
