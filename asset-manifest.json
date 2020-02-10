@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/portuguese-verb-scraper/static/js/main.ba90dde2.chunk.js",
+    "main.js.map": "/portuguese-verb-scraper/static/js/main.ba90dde2.chunk.js.map",
+    "runtime-main.js": "/portuguese-verb-scraper/static/js/runtime-main.b78ae16d.js",
+    "runtime-main.js.map": "/portuguese-verb-scraper/static/js/runtime-main.b78ae16d.js.map",
+    "static/css/2.c0851dc3.chunk.css": "/portuguese-verb-scraper/static/css/2.c0851dc3.chunk.css",
+    "static/js/2.6b2c18ce.chunk.js": "/portuguese-verb-scraper/static/js/2.6b2c18ce.chunk.js",
+    "static/js/2.6b2c18ce.chunk.js.map": "/portuguese-verb-scraper/static/js/2.6b2c18ce.chunk.js.map",
+    "index.html": "/portuguese-verb-scraper/index.html",
+    "precache-manifest.50319cbf639dcaab27591f261b86024a.js": "/portuguese-verb-scraper/precache-manifest.50319cbf639dcaab27591f261b86024a.js",
+    "service-worker.js": "/portuguese-verb-scraper/service-worker.js",
+    "static/css/2.c0851dc3.chunk.css.map": "/portuguese-verb-scraper/static/css/2.c0851dc3.chunk.css.map",
+    "static/js/2.6b2c18ce.chunk.js.LICENSE.txt": "/portuguese-verb-scraper/static/js/2.6b2c18ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b78ae16d.js",
+    "static/css/2.c0851dc3.chunk.css",
+    "static/js/2.6b2c18ce.chunk.js",
+    "static/js/main.ba90dde2.chunk.js"
+  ]
+}
