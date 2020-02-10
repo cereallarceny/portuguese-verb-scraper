@@ -110,7 +110,7 @@ import fs from 'fs';
 
                       if (conjugations.includes(modeDataItemPronoun)) {
                         returnMode.conjugations.push({
-                          prounoun: modeDataItemPronoun,
+                          pronoun: modeDataItemPronoun,
                           conjugation: modeDataItemConjugation
                         });
                       }
@@ -144,7 +144,7 @@ import fs from 'fs';
   };
 
   /* ----- CREATE DIR IF NEEDED ----- */
-  const dataPath = '../client/data';
+  const dataPath = '../client/src/data';
 
   if (!fs.existsSync(dataPath)) {
     fs.mkdirSync(dataPath);
